@@ -1,0 +1,22 @@
+{
+  "name": "SwiftModuleAlert",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftModuleAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wuwenming/SwiftModuleAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wuwenming": "18301595770@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wuwenming/SwiftModuleAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftModuleAlert/Classes/**/*"
+}

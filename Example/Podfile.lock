@@ -1,0 +1,16 @@
+PODS:
+  - SwiftModuleAlert (0.1.0)
+
+DEPENDENCIES:
+  - SwiftModuleAlert (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftModuleAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftModuleAlert: c703fd0d702ebda7f668c20c66af27aafc8c4507
+
+PODFILE CHECKSUM: 6444a49a62bd8d20633c1dace226d6c2a016cbae
+
+COCOAPODS: 1.8.4
